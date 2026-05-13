@@ -46,3 +46,6 @@ Issues 탭 또는 Pull Request로 기여해 주세요.
 ## 라이선스
 
 MIT License
+
+## Update
+swkim@gmail.com 
